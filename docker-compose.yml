@@ -1,0 +1,8 @@
+version: '1'
+services:  
+  webapi:
+    image: ivanpaulovich/clean-architecture-webapi-ef-core
+    ports:
+        - 5500:80
+    environment:
+        - ASPNETCORE_ENVIRONMENT=Development
