@@ -1,0 +1,12 @@
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\bin\Debug\net6.0\CleanArch.App.deps.json
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\bin\Debug\net6.0\CleanArch.App.dll
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\bin\Debug\net6.0\CleanArch.App.pdb
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\CleanArch.App.csproj.AssemblyReference.cache
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\CleanArch.App.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\CleanArch.App.AssemblyInfoInputs.cache
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\CleanArch.App.AssemblyInfo.cs
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\CleanArch.App.csproj.CoreCompileInputs.cache
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\CleanArch.App.dll
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\refint\CleanArch.App.dll
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\CleanArch.App.pdb
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.App\obj\Debug\net6.0\ref\CleanArch.App.dll

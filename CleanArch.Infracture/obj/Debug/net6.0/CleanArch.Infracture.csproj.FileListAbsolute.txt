@@ -1,0 +1,17 @@
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\bin\Debug\net6.0\CleanArch.Infracture.deps.json
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\bin\Debug\net6.0\CleanArch.Infracture.dll
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\bin\Debug\net6.0\CleanArch.Infracture.pdb
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\bin\Debug\net6.0\CleanArch.App.dll
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\bin\Debug\net6.0\CleanArch.Core.dll
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\bin\Debug\net6.0\CleanArch.App.pdb
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\bin\Debug\net6.0\CleanArch.Core.pdb
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\CleanArch.Infracture.csproj.AssemblyReference.cache
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\CleanArch.Infracture.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\CleanArch.Infracture.AssemblyInfoInputs.cache
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\CleanArch.Infracture.AssemblyInfo.cs
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\CleanArch.Infracture.csproj.CoreCompileInputs.cache
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\CleanArch.Infracture.csproj.CopyComplete
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\CleanArch.Infracture.dll
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\refint\CleanArch.Infracture.dll
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\CleanArch.Infracture.pdb
+F:\Work\Personal Portfolio\Dotnet\CleanArch\CleanArch.Infracture\obj\Debug\net6.0\ref\CleanArch.Infracture.dll
